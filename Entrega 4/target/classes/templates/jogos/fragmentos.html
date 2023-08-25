@@ -1,0 +1,83 @@
+<div class="container" th:fragment="form(jogoDto, action)">
+	<div class="row">
+		<form th:object="${jogoDto}" th:action="${action}" method="POST">
+			<div class="mb-3">
+				<label class="form-label">Nome do Jogo</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{nome}"
+				/>
+				<div class="invalid-feedback" th:errors="*{nome}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Descrição</label>
+				<textarea
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{descricao}"
+				></textarea>
+				<div class="invalid-feedback" th:errors="*{descricao}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Gênero</label>
+				<select class="form-control" th:errorclass="is-invalid" th:field="*{genero}">
+					<option value="">Gênero</option>
+					<option th:value="Ação">Ação</option>
+					<option th:value="Aventura">Aventura</option>
+					<option th:value="Estratégia">Estratégia</option>
+					<option th:value="RPG">RPG</option>
+					<option th:value="Esportes">Esportes</option>
+					<option th:value="Simulação">Simulação</option>
+					<option th:value="Tiro">Tiro</option>
+				</select>
+				<div class="invalid-feedback" th:errors="*{genero}"></div>
+			</div>			
+			<div class="mb-3">
+				<label class="form-label">Plataforma</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{plataforma}"
+				/>
+				<div class="invalid-feedback" th:errors="*{plataforma}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Desenvolvedor</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{desenvolvedor}"
+				/>
+				<div class="invalid-feedback" th:errors="*{desenvolvedor}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Data de Lançamento</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="date"
+					th:field="*{dataLancamento}"
+				/>
+				<div class="invalid-feedback" th:errors="*{dataLancamento}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Preço</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{preco}"
+				/>
+				<div class="invalid-feedback" th:errors="*{preco}"></div>
+			</div>
+			<button class="btn btn-primary" type="submit">Submeter</button>
+			<a href="javascript:history.back()">Voltar</a>
+		</form>
+	</div>
+</div>
+

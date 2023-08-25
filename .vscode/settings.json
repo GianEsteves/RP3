@@ -7,5 +7,6 @@
         "Entrega 02,pl": "prolog",
         "Entrega1.C": "cpp",
         "Entrega3.C": "cpp"
-    }
+    },
+    "java.compile.nullAnalysis.mode": "automatic"
 }
