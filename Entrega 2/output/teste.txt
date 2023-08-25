@@ -1,0 +1,24 @@
+Bruno Uvini;Z;99;93;94;5
+Gabriel Mercado;Z;99;100;95;11
+Pedor Geromel;Z;98;93;93;18
+Rodrigo Moledo;Z;99;96;96;21
+Vitao;Z;91;92;98;23
+Walter Kannemann;Z;97;98;92;24
+Alan Patrik;M;93;99;95;2
+Carlos de Pena;M;93;98;96;6
+Charles Aránguiz;M;100;98;100;7
+Franco Cristaldo;M;93;91;100;9
+Gabriel Franco;M;92;95;96;10
+João Bitello;M;92;93;92;12
+Mathias Villasanti;M;91;94;94;16
+Maurício;M;92;94;95;17
+Pepe;M;91;99;98;20
+Vina;M;99;96;96;22
+Aldemir Ferreira;A;94;100;93;3
+Alexandre Alemão;A;100;92;92;4
+Diego Souza;A;93;95;95;8
+Luis Soares;A;94;95;96;14
+Luiz Adriano;A;100;96;96;15
+Pedro Henrique;A;94;100;100;19
+Adriel;G;92;92;95;1
+Keiller;G;91;96;93;13

@@ -1,0 +1,252 @@
+__________________________________________
+ Resultado do primeiro tempo:
+Time Corinthians: 0
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time Corinthians: 0
+Time Adversário: 0
+Placar final: 0 x 0
+       
+O jogo terminou empatado!
+O time Corinthians recebeu 1 ponto na tabela.
+O time Adversário recebeu 1 ponto na tabela.
+
+Tabela:
+Time Corinthians: 1 pontos.
+Time Adversário: 1 pontos.
+__________________________________________
+ __________________________________________
+ Resultado do primeiro tempo:
+Time Gremio: 0
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time Gremio: 0
+Time Adversário: 0
+Placar final: 0 x 0
+       
+O jogo terminou empatado!
+O time Gremio recebeu 1 ponto na tabela.
+O time Adversário recebeu 1 ponto na tabela.
+
+Tabela:
+Time Gremio: 1 pontos.
+Time Adversário: 1 pontos.
+__________________________________________
+ __________________________________________
+ Resultado do primeiro tempo:
+Time : 0
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time : 0
+Time Adversário: 0
+Placar final: 0 x 0
+       
+O jogo terminou empatado!
+O time  recebeu 1 ponto na tabela.
+O time Adversário recebeu 1 ponto na tabela.
+
+Tabela:
+Time : 1 pontos.
+Time Adversário: 1 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time : 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time  venceu o jogo!
+O time  recebeu 3 pontos na tabela.
+
+Tabela:
+Time : 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 0
+Time Adversário: 10
+       
+
+Resultado do segundo tempo:
+Time : 0
+Time Adversário: 10
+       
+Placar final: 0 x 10
+       
+O time adversário venceu o jogo!
+O time Adversário recebeu 3 ponto na tabela.
+O time  não pontuou na tabela.
+
+Tabela:
+Time : 0 pontos.
+Time Adversário: 3 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 0
+Time Adversário: 10
+       
+__________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 0
+Time Adversário: 10
+       
+__________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 0
+Time Adversário: 10
+       
+
+Resultado do segundo tempo:
+Time : 0
+Time Adversário: 10
+       
+Placar final: 0 x 10
+       
+O time adversário venceu o jogo!
+O time Adversário recebeu 3 ponto na tabela.
+O time  não pontuou na tabela.
+
+Tabela:
+Time : 0 pontos.
+Time Adversário: 3 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time : 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time  venceu o jogo!
+O time  recebeu 3 pontos na tabela.
+
+Tabela:
+Time : 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time : 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time  venceu o jogo!
+O time  recebeu 3 pontos na tabela.
+
+Tabela:
+Time : 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+  x Adversário
+Resultado do primeiro tempo:
+Time : 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time : 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time  venceu o jogo!
+O time  recebeu 3 pontos na tabela.
+
+Tabela:
+Time : 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+ Corinthians x Adversário
+Resultado do primeiro tempo:
+Time Corinthians: 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time Corinthians: 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time Corinthians venceu o jogo!
+O time Corinthians recebeu 3 pontos na tabela.
+
+Tabela:
+Time Corinthians: 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+ Corinthians x Adversário
+Resultado do primeiro tempo:
+Time Corinthians: 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time Corinthians: 10
+Time Adversário: 0
+       
+Placar final: 10 x 0
+       
+O time Corinthians venceu o jogo!
+O time Corinthians recebeu 3 pontos na tabela.
+
+Tabela:
+Time Corinthians: 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ __________________________________________
+ Internacional x Adversário
+Resultado do primeiro tempo:
+Time Internacional: 10
+Time Adversário: 0
+       
+
+Resultado do segundo tempo:
+Time Internacional: 20
+Time Adversário: 0
+       
+Placar final: 20 x 0
+       
+O time Internacional venceu o jogo!
+O time Internacional recebeu 3 pontos na tabela.
+
+Tabela:
+Time Internacional: 3 pontos.
+Time Adversário: 0 pontos.
+__________________________________________
+ 

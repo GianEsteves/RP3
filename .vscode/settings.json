@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "teste": "bibtex",
+        "teste2": "bibtex",
+        "a": "prolog",
+        "*.pl": "prolog",
+        "Entrega 02,pl": "prolog",
+        "Entrega1.C": "cpp",
+        "Entrega3.C": "cpp"
+    }
+}

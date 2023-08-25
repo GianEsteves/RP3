@@ -1,0 +1,80 @@
+<div class="container" th:fragment="form(clienteDto, action)">
+	<div class="row">
+		<form th:object="${clienteDto}" th:action="${action}" method="POST">
+			<div class="mb-3">
+				<label class="form-label">Nome</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{nome}"
+				/>
+				<div class="invalid-feedback" th:errors="*{nome}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">E-mail</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="email"
+					th:field="*{email}"
+				/>
+				<div class="invalid-feedback" th:errors="*{email}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Senha</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="password"
+					th:field="*{senha}"
+				/>
+				<div class="invalid-feedback" th:errors="*{senha}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Plataforma</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{plataforma}"
+				/>
+				<div class="invalid-feedback" th:errors="*{plataforma}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Preferência de Gênero</label>
+				<select class="form-control" th:errorclass="is-invalid" th:field="*{generoPreferido}">
+					<option value="">Escolha uma opção</option>
+					<option value="Feminino">Feminino</option>
+					<option value="Masculino">Masculino</option>
+					<option value="Outro">Outro</option>
+					<option value="Prefiro não informar">Prefiro não informar</option>
+				</select>
+				<div class="invalid-feedback" th:errors="*{generoPreferido}"></div>
+			</div>			
+			<div class="mb-3">
+				<label class="form-label">Data de Nascimento</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="date"
+					th:field="*{dataNascimento}"
+				/>
+				<div class="invalid-feedback" th:errors="*{dataNascimento}"></div>
+			</div>
+			<div class="mb-3">
+				<label class="form-label">Endereço</label>
+				<input
+					class="form-control"
+					th:errorclass="is-invalid"
+					type="text"
+					th:field="*{endereco}"
+				/>
+				<div class="invalid-feedback" th:errors="*{endereco}"></div>
+			</div>
+			<button class="btn btn-primary" type="submit">Submeter</button>
+			<a href="javascript:history.back()">Voltar</a>
+		</form>
+	</div>
+</div>
+
